@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"ru.kuzhleva.lab6.annotations.AdditionaClasses"},{"l":"ru.kuzhleva.lab6.annotations.BasicAnnotations"},{"l":"ru.kuzhleva.lab6.annotations.Reflections"}];updateSearchResults();
